@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.deps.json
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.dll
+/Users/i9_editor/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.pdb
+/Users/i9_editor/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.dll
+/Users/i9_editor/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.pdb
